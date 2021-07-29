@@ -32,3 +32,20 @@ body{
 }
 
 /* Banner Section End*/
+
+/* Bike Section */
+
+.bike section{
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+.bike-section img{
+    width: 288px;
+    height: 243px;
+}
+  .bike-color{
+    filter: grayscale(100%);
+
+}
+
+/* Bike Section End */
