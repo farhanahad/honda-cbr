@@ -90,5 +90,8 @@ body{
 /* Clients Review End*/
 
 /* FQA Section */
-
+.fqa-section{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
 /* FQA Section End*/
