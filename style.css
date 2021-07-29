@@ -49,3 +49,35 @@ body{
 }
 
 /* Bike Section End */
+
+/* Clients Review */
+
+.text-color{
+    color: #E76F51;
+}
+.rating{
+    
+        display: flex;
+        justify-content: center ;
+        align-items: center;
+         color: #FFC014;
+    
+}
+.fa-star.empty{
+    color: #AEAEAE;
+}
+.clients{
+    color: #23A6F0;
+}
+.review img{
+    width: 50%;
+    height: 149px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+    
+}
+
+
+/* Clients Review End*/
