@@ -52,6 +52,10 @@ body{
 
 /* Clients Review */
 
+.clients-section{
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
 .text-color{
     color: #E76F51;
 }
@@ -78,6 +82,8 @@ body{
   
     
 }
-
-
 /* Clients Review End*/
+
+/* FQA Section */
+
+/* FQA Section End*/
