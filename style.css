@@ -95,3 +95,19 @@ body{
     margin-bottom: 120px;
 }
 /* FQA Section End*/
+
+/* Subscriber Section */
+.subscribe-bg-info{
+    background: rgba(38, 70, 83, 0.178);
+    margin-top: 70px;
+}
+
+.subscribe-btn-buy-now{
+    background-color: #E76F51;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+/* Subscriber Section End */
