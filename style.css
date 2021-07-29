@@ -111,3 +111,20 @@ body{
 }
 
 /* Subscriber Section End */
+
+/* Social Media section */
+.social-media{
+    background: #F8F9FA;
+    padding: 100px 0;
+}
+.social-media p{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.social-icons img{
+    width: 60px;
+    transition: 0.5s;
+}
+
+/* End of  Social Media section */
